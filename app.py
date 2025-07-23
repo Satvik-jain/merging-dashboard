@@ -158,7 +158,7 @@ dashboard = ModelVisualizationDashboard()
 def main():
     st.set_page_config(page_title="Model Performance Dashboard", page_icon="📊", layout="wide")
     
-    st.title("🚀 Model Performance Visualization Dashboard")
+    st.title("📜 Model Performance Visualization Dashboard")
     st.markdown("---")
     
     # Sidebar controls
